@@ -4,9 +4,9 @@ version = 3
 
 [[package]]
 name = "HDprogrammutator"
-version = "0.1.25"
+version = "0.1.262"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "29248b149e4c098ca137f78e2c2bc3b170923efbb898e49092b49a08b530e5b8"
+checksum = "65fb6c3e2ddcd557a26635597ae1c6c7506787b8f3b3c098d7e102b2a629cd15"
 dependencies = [
  "hdrepresentation",
  "nix",
